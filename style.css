@@ -573,6 +573,11 @@ a {
   justify-content: space-between;
   padding-top: 48px;
 }
+.hidden{
+    width: 1296px;
+    display: flex;
+  justify-content: space-between;
+}
 .footer-header .menu {
   display: flex;
 }
